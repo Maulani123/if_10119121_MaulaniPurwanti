@@ -1,0 +1,17 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    // ...
+    dependencies {
+        // ...
+        classpath 'This version of the Android Support plugin for IntelliJ IDEA (or Android Studio) cannot open this project, please retry with version 2021.2.1 or newer.'
+    }
+}
+
+plugins {
+    id 'com.android.application' version '7.0.0' apply false
+    id 'com.android.library' version '7.0.0' apply false
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">if_10119121</string>
+
+    <string name="text_login">Login</string>
+    <string name="login_desc">Masukan Email dan Password Anda untuk Masuk ke Aplikasi</string>
+    <string name="text_email">Email</string>
+    <string name="or">OR</string>
+    <string name="text_register">Register</string>
+    <string name="text_logout">Logout</string>
+    <string name="error">Field tidak boleh kosong</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="text_dialog">Register Success, Click button below to login</string>
+</resources>
